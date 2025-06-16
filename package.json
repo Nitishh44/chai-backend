@@ -1,0 +1,18 @@
+{
+  "name": "chai-or-back",
+  "version": "1.0.0",
+  "description": "just a simple project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "and",
+    "backend",
+    "and",
+    "chai"
+  ],
+  "author": "Nitish Gupta",
+  "license": "ISC"
+}
